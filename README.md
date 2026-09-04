@@ -36,7 +36,7 @@ WarehouseX Order Management System Performance/
 
 ## 🎯 Rubric Criteria Completion
 
-### ✅ Part 1: Strategic Plan Document (5 pts)
+### ✅ Part 1: Strategic Plan Document
 **File**: [Part1_StrategicPlan.md](Part1_StrategicPlan.md)
 
 **Comprehensive sections**:
@@ -102,7 +102,7 @@ WarehouseX Order Management System Performance/
 
 ✓ **Cache-Aside Pattern**
 - Redis distributed cache via `IDistributedCache`
-- Absolute expiration (15 min) + sliding expiration (5 min)
+- Absolute expiration (15 min) + sliding expiration 
 - Graceful miss handling with database fallback
 
 ✓ **Parallel Execution**
@@ -128,7 +128,7 @@ WarehouseX Order Management System Performance/
 
 ---
 
-### ✅ Part 4: Debugged Code (5 pts)
+### ✅ Part 4: Debugged Code
 **File**: [Part4_DebuggedCode.cs](Part4_DebuggedCode.cs)
 
 **10 Critical Issues Fixed**:
